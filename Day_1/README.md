@@ -13,7 +13,7 @@
 -- Simulator looks for the change on the input signals, output is evaluated only when input changes.
 
 ### Simulator/ TestBench
-![Test Bench](../images/TestBench.png)
+![Test Bench](../Images/TestBench.png)
 
 ### Iverilog Simulation Flow
-![Simulatio Flow](../images/Simulation_flow.png)
+![Simulatio Flow](../Images/Simulation_flow.png)
