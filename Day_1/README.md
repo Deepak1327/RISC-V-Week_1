@@ -2,7 +2,7 @@
 
 ## Inroduction to Open-Source Simulator Iverilog
 
-### L_1:- Intorcution to Iverilog Design Test bench.
+### L_1:- Introduction to Iverilog Design Test bench.
 
 - Simulator:- It is a tool viz used to check the Design.
 - Iverilog is the tool to simulate RTL.
@@ -17,3 +17,11 @@
 
 ### Iverilog Simulation Flow
 ![Simulatio Flow](Images/Simulation_flow.png)
+
+## Labs Using Iverilog and GTKWave
+
+### L_1:- Lab1 Introduction to Lab1
+
+### L_2:- Lab2 Introduction iverilog gtkwave p1
+
+### L_3:- Lab2 Introduction iverilog gtkwave p2
