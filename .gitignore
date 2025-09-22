@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.ipynb_checkpoints/
+__pycache__/
