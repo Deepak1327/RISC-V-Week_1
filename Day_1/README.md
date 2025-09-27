@@ -26,6 +26,9 @@
 ### Folder Overview
 ![Intoduction_to_Lab1](Images/Introduction_to_Lab1.png)
 ### L_2:- Lab2 Introduction iverilog gtkwave p1
-
+-- Verilog files folder:- Here for every verilog design file we have test bench for that name start  from tb.
+-- Loaded the good mux verilog file and test bench file, learnt how to use gtk wave and iverilog.
+### Snapshot of mux waveform
+![Intoduction_to_Lab1](Images/mux_testing_demo.png)
 
 ### L_3:- Lab2 Introduction iverilog gtkwave p2
