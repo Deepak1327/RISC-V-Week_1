@@ -24,7 +24,7 @@
 -- cloned the https://github.communalg123sky130RTLDesignAndSynthesisWorkshop repository, and got overview of the contents of folder. 
 -- This has standard cell library, verilog files, and test bench files.
 ### Folder Overview
-![Intoduction_to_Lab1](Images/Introduction_to_lab1.png)
+![Intoduction_to_Lab1](Images/Introduction_to_Lab1.png)
 ### L_2:- Lab2 Introduction iverilog gtkwave p1
 
 
